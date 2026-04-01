@@ -1,4 +1,4 @@
 # Himanshu-demo
 This is my first Git Repository.
 <br>
-Author - Himanshu Katariya
+Author - Khushi Katariya
